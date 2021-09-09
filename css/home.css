@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.banner {
+  background-image: url("http://wallpoper.com/images/00/29/94/76/food_00299476.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  opacity: 0.8;
+}
+
+.gallery {
+  background-color: blanchedalmond !important;
+}
+.gallery img {
+  opacity: 0.7;
+}
+
+/* .gallery img:hover { */
+/* "https://images.freecreatives.com/wp-content/uploads/2016/10/Royal-Cafe-Menu-Template-With-Prices.jpg" */
+
+/* opacity: 0.3;
+} */
+
+.cus-review img {
+  height: 300px;
+}
+
+.one-d {
+  background-image: url("http://blog.hdwallsource.com/wp-content/uploads/2016/02/sushi-food-wallpaper-background-49725-51404-hd-wallpapers.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.one-d:hover {
+  background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/10/Royal-Cafe-Menu-Template-With-Prices.jpg");
+}
+
+.two-d {
+  background-image: url("https://images4.alphacoders.com/235/235738.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 400px;
+  width: 100%;
+  opacity: 0.8;
+}
+
+.two-d:hover {
+  background-image: url("https://images.freecreatives.com/wp-content/uploads/2016/10/Royal-Cafe-Menu-Template-With-Prices.jpg");
+}
