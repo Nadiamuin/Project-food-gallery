@@ -1,0 +1,13 @@
+.banner {
+  background-image: url("https://images.alphacoders.com/438/thumb-1920-438979.jpg");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  opacity: 0.8;
+}
+
+.our-cheffs img {
+  opacity: 0.8;
+}
