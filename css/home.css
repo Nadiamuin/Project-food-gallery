@@ -9,15 +9,21 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
-  opacity: 0.8;
+  /* opacity: 0.8; */
+}
+
+.banner p,
+h3,
+h5 {
+  opacity: 1;
 }
 
 .gallery {
   background-color: blanchedalmond !important;
 }
-.gallery img {
+/* .gallery img {
   opacity: 0.7;
-}
+} */
 
 /* .gallery img:hover { */
 /* "https://images.freecreatives.com/wp-content/uploads/2016/10/Royal-Cafe-Menu-Template-With-Prices.jpg" */
@@ -37,7 +43,7 @@
   background-size: cover;
   height: 400px;
   width: 100%;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 
 .one-d:hover {
@@ -51,7 +57,7 @@
   background-size: cover;
   height: 400px;
   width: 100%;
-  opacity: 0.8;
+  /* opacity: 0.8; */
 }
 
 .two-d:hover {
