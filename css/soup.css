@@ -1,0 +1,23 @@
+.banner {
+    background-image: url("https://images2.alphacoders.com/749/749862.jpg");
+    height: 200px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    opacity: 0.8;
+}
+
+.hide-section {
+    display: none;
+}
+
+.drinks-sec {
+    transition: all 2s ease-in-out;
+}
+
+.drinks-sec img:hover {
+    transform: scale(1.5);
+    transform: translate(20px, 20px);
+}
